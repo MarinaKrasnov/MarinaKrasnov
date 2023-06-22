@@ -38,6 +38,9 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" **alt="jest" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" title="eslint" **alt="eslint" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="slack" **alt="slack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
 </div>
           
      
