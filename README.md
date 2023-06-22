@@ -51,4 +51,4 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
 ### :fire: My Stats :
           
      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaKrasnov&theme=white&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaKrasnov)](https://git.io/streak-stats)
