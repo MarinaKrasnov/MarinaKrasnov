@@ -30,7 +30,8 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
       <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" **alt="Bash" width="40" height="40"/>
    <img src=" https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>
-     
+            <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>
+     https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg
 </div>
           
      
