@@ -6,7 +6,7 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
 
 ### :woman_technologist: About Me :
 - 🤔 I’m looking to advance my career
-- 💬 Ask me about Smart home or where is the best place to practice yoga in Tel Aviv :lotus_position:
+- 💬 Ask me about Smart home :house: or where is the best place to practice yoga on sunset :sunrise: in Tel Aviv :lotus_position:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-krasnova/)
 - ⚡ Fun fact: I was a professional ballet dancer in my childhood.:ballet_shoes:
 
