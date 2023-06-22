@@ -43,6 +43,7 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" title="ssh" **alt="ssh" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" **alt="webpack" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="40" height="40"/>
 </div>
           
      
