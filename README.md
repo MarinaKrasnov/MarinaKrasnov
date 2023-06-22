@@ -12,3 +12,9 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-krasnova/)
 - ⚡ Fun fact: I was a professional ballet dancer in my childhood.:ballet_shoes:
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
