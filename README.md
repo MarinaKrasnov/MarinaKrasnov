@@ -46,7 +46,7 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="40" height="40"/>
 </div>
           
-     ---
+---
 
 ### :fire: My Stats :
           
