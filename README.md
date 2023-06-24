@@ -13,7 +13,11 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 - 💬 Ask me about Smart home :house: or where is the best place to practice yoga :lotus_position: on sunset :sunrise: in Tel Aviv 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marina-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marina-krasnova/)
+  [![my badge](https://badgen.net/badge/Email/marina.krasnova@gmail.com/orange?icon=email)](maito:marina.krasnova@gmail.com)
+ [![my badge](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](t.me/Marina_Krasnov_TA)
+  
 - ⚡ Fun fact: I was a professional ballet dancer in my childhood.:ballet_shoes:
+- 🌍 I speak English, Hebrew and Russian 
 
 ---
 
@@ -43,6 +47,7 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" **alt="vscode" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" **alt="webpack" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg" title="putty" **alt="putty" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman" **alt="Postman" />
 </div>
           
 ---
@@ -53,3 +58,6 @@ I Graduated from Practicum by Yandex as a Frontend Developer MERN online Bootcam
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarinaKrasnov)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaKrasnov)](https://github.com/anuraghazra/github-readme-stats)
+
+![Codewars](https://github.r2v.ch/codewars?user=marina.krasnov.&hide_clan=true&theme=light&name=true)
+
